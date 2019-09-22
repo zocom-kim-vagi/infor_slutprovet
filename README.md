@@ -4,8 +4,8 @@ Vad behöver ni kunna för att klara slutprovet
 HTML5 
 Klara alla Övningar på: https://www.w3schools.com/html/exercise.asp?filename=exercise_html_attributes1
 
-CSS enligt nedan: (allt hämtat från w3schools.com)
--------------------------
+Detta bör ni känna till om CSS
+
 CSS Introduction
 CSS Syntax
 CSS Selectors
@@ -38,14 +38,12 @@ CSS Website Layout
 CSS Units
 CSS Specificity
 
-CSS Advanced
-
-CSS Advanced
 CSS Rounded Corners
 CSS Border Images
 CSS Backgrounds
 CSS Colors
 CSS Gradients
+CSS Animation
 CSS Shadows
 CSS Web Fonts
 CSS Buttons
@@ -53,15 +51,25 @@ CSS Flexbox
 CSS Media Queries
 CSS MQ Examples
 
+
 RWD Media Queries
 RWD Images
 
+CSS Grid
 Grid Intro
 Grid Container
 Grid Item
 
 och CSS Animation
 
-Ni ska även förstå och göra skisser enligt begreppet "Block, Container och Element"
-Samt grundläggande om UX och UI
+Grundläggande om UX och UI
+Hur man startar ett projekt
+Skissa Wireframes
+
+Göra en skiss på uppbyggnaden enligt begreppet "block > containers > elements"
+
+
+
+
+
 
