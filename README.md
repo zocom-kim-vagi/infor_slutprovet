@@ -1,6 +1,6 @@
 Inför Slutprovet
 
-Se i filen KunskaperWebbutveckling.
+Se i filen "KunskaperWebbutveckling".
 
 Ni behöver inte kunna allt utantill, men bör känna till de flesta "CSS namnen" och förstå deras funktion.
 Då har ni möjlighet att leta fram syntaxen när det behövs.
